@@ -5,7 +5,7 @@ import base64
 import pandas as pd
 
 # Paramètres de connexion GitHub
-GITHUB_TOKEN = 'ghp_votre_token_github'
+GITHUB_TOKEN = ''
 REPO_OWNER = 'blegras76'
 REPO_NAME = 'checklist'
 BRANCH_NAME = 'main'  # ou 'master' si c'est le cas
