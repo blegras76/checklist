@@ -6,8 +6,8 @@ import pandas as pd
 
 # Paramètres de connexion GitHub
 GITHUB_TOKEN = 'ghp_votre_token_github'
-REPO_OWNER = 'votre_nom_utilisateur'
-REPO_NAME = 'nom_du_depot'
+REPO_OWNER = 'blegras76'
+REPO_NAME = 'checklist'
 BRANCH_NAME = 'main'  # ou 'master' si c'est le cas
 
 # Fonction pour envoyer un fichier CSV sur GitHub
